@@ -48,8 +48,10 @@
 ---
 
 ## 📊 GitHub Stats
+* **Stats**:  
+  ![Shadows's GitHub stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/?username=ShadowKing6908&show_icons=true&theme=aura_dark)
 
-- **Top Languages**:  
+* **Top Languages**:  
   ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark)
   
 ---
@@ -61,5 +63,3 @@
 <a href="mailto:github@games.shadow-king.de">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" alt="Email">
 </a>
-
----
