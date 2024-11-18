@@ -40,9 +40,9 @@
 ---
 
 ## 🎲 Let's Connect!
-* **Discord:**    `shadowmaster6587`
-* **Steam:**      `ʍopɐɥS`
-* **Riot:**       `ShadowKing6908#dämon`
+* ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) `shadowmaster6587`
+* [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199141353926/) `ʍopɐɥS`
+* ![Riot Games](https://img.shields.io/badge/Riot%20Games-FF4655?style=for-the-badge&logo=riotgames&logoColor=white) `ShadowKing6908#dämon`
 * **My Server:**  [ShadowFox Gaming](https://discord.gg/Vm7nVeDYVP)
 
 ---
