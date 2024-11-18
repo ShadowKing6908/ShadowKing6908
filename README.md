@@ -22,12 +22,6 @@
 
 ---
 
-In the **🛠️ Tech Stack** section, you list the technologies, programming languages, frameworks, tools, and platforms you work with. This section showcases your expertise and makes it easy for others to see what you're skilled at.
-
-Here’s an example of what you can include:
-
----
-
 ### **🛠️ Tech Stack**
 
 #### **Languages**
@@ -41,15 +35,6 @@ Here’s an example of what you can include:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### **How to Customize?**
-1. **Use Badge Generators**: You can create badges at [Shields.io](https://shields.io/) or search for logos in their database.
-2. **Add Visual Interest**: Group your tools logically (e.g., languages, frameworks, game engines).
-3. **Limit Overload**: Focus on your strongest or most relevant skills.
-
-Would you like a full tech stack specific to your expertise? Let me know!
 
 ---
 
