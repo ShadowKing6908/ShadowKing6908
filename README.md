@@ -48,13 +48,8 @@
 
 ## 📊 GitHub Stats
 
-![Streak Stats](https://streak-stats.demolab.com/?user=ShadowKing6908&theme=radical)
-
-- **Activity Graph**:  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowKing6908&theme=radical)
-
 - **Top Languages**:  
-  ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats)
+  ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark)
   
 ---
 
