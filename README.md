@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 * **Stats**:  
-  ![Shadows's GitHub stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/?username=ShadowKing6908&show_icons=true&theme=aura_dark&cache_seconds=86400)
+  ![Shadows's GitHub stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/?username=ShadowKing6908&show_icons=true&theme=aura_dark&cache_seconds=100)
 
 * **Top Languages**:  
   ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark)
