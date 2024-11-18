@@ -43,7 +43,7 @@
 * **Discord:**    `shadowmaster6587`
 * **Steam:**      `ʍopɐɥS`
 * **Riot:**       `ShadowKing6908#dämon`
-* **My Server:**  `https://discord.gg/Vm7nVeDYVP`
+* **My Server:**  [ShadowFox Gaming](https://discord.gg/Vm7nVeDYVP)
 
 ---
 
