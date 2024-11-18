@@ -54,6 +54,7 @@
 * **Top Languages**:  
   ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark)
 
+* **Active time (via WakaTime)**:   
   [![Shadows's WakaTime stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/wakatime?username=ShadowKing6908&theme=aura_dark&cache_seconds=10)](https://github.com/ShadowKing6908/toplangstats)
   
 ---
