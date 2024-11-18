@@ -30,11 +30,12 @@
 
 #### **Frameworks & Libraries**
 - ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+- ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 #### **Tools**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
