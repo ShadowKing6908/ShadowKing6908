@@ -2,7 +2,7 @@
 
 ---
 
-```
+```py
 //---------------------------------------------------------------------------|
 //     .--.--.     ,---,                                                     |
 //    /  /    '. ,--.' |                     ,---,                           |
@@ -63,6 +63,3 @@
 </a>
 
 ---
-- **Visitor Count**:  
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShadowKing6908/&title=Profile%20Views)
-
