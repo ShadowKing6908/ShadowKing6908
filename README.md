@@ -53,8 +53,9 @@
 - **Activity Graph**:  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowKing6908&theme=radical)
 
-
-
+- **Top Languages**:  
+  ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats)
+  
 ---
 
 > "A good game dev is a gamer at heart." 🎮
