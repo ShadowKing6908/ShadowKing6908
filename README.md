@@ -50,6 +50,11 @@
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=ShadowKing6908&theme=radical)
 
+- **Activity Graph**:  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowKing6908&theme=radical)
+
+
+
 ---
 
 > "A good game dev is a gamer at heart." 🎮
@@ -59,3 +64,8 @@
 <a href="mailto:github@games.shadow-king.de">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" alt="Email">
 </a>
+
+---
+- **Visitor Count**:  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShadowKing6908/&title=Profile%20Views)
+
