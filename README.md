@@ -25,25 +25,25 @@
 ### **🛠️ Tech Stack**
 
 #### **Languages**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### **Frameworks & Libraries**
-- ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-- ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+* ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+* ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 #### **Tools**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
 ## 🎲 Let's Connect!
-* ![Discord](https://img.shields.io/badge/Discord-shadowmaster6587-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2)
-* ![Steam](https://img.shields.io/badge/Steam-ʍopɐɥS-000000?style=for-the-badge&logo=steam&logoColor=000000)
-* ![Riot Games](https://img.shields.io/badge/Riot%20Games-ShadowKing6908%23dämon-FF4655?style=for-the-badge&logo=riotgames&logoColor=FF4655)
-* ![Discord Server](https://img.shields.io/badge/Shadow%20Fox%20Gaming-383838?style=for-the-badge&logo=discord&logoColor=white) [Join now!](https://discord.gg/Vm7nVeDYVP)
+> * ![Discord](https://img.shields.io/badge/Discord-shadowmaster6587-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2)
+> * ![Steam](https://img.shields.io/badge/Steam-ʍopɐɥS-000000?style=for-the-badge&logo=steam&logoColor=000000) [Profile Link](https://steamcommunity.com/profiles/76561199141353926/)
+> * ![Riot Games](https://img.shields.io/badge/Riot%20Games-ShadowKing6908%23dämon-FF4655?style=for-the-badge&logo=riotgames&logoColor=FF4655)
+> * ![Discord Server](https://img.shields.io/badge/Shadow%20Fox%20Gaming-383838?style=for-the-badge&logo=discord&logoColor=white) [Join now!](https://discord.gg/Vm7nVeDYVP)
 
 ---
 
