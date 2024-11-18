@@ -51,9 +51,6 @@
 
 - **Top Languages**:  
   ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark)
-
-## An Example of my Bot work
-[![Akali Bot](https://toplangstats-shadowking6908s-projects.vercel.app/api/pin/?username=ShadowKing6908&repo=Akali_Pub&theme=aura_dark)](https://github.com/ShadowKing6908/Akali_Pub)
   
 ---
 
