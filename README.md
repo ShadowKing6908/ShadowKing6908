@@ -59,6 +59,10 @@
   
 ---
 
+[![Public Akali Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShadowKing6908&repo=Akali_Public&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 > "A good game dev is a gamer at heart." 🎮
 
 ---
