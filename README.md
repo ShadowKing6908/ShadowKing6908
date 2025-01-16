@@ -46,7 +46,7 @@
 ## 🎲 Let's Connect!
 > * ![Discord](https://img.shields.io/badge/Discord-shadowmaster6587-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2)
 > * ![Steam](https://img.shields.io/badge/Steam-ʍopɐɥS-000000?style=for-the-badge&logo=steam&logoColor=000000) [Profile Link](https://steamcommunity.com/profiles/76561199141353926/)
-> * ![Riot Games](https://img.shields.io/badge/Riot%20Games-DTS Shadow%23King-FF4655?style=for-the-badge&logo=riotgames&logoColor=FF4655)
+> * ![Riot Games](https://img.shields.io/badge/Riot%20Games-DTS\Shadow%23King-FF4655?style=for-the-badge&logo=riotgames&logoColor=FF4655)
 > * ![Discord Server](https://img.shields.io/badge/Shadow%20Fox%20Gaming-383838?style=for-the-badge&logo=discord&logoColor=white) [Join now!](https://discord.gg/Vm7nVeDYVP)
 
 ---
