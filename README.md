@@ -62,12 +62,12 @@
   [![Shadows's WakaTime stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/wakatime?username=ShadowKing6908&theme=aura_dark&cache_seconds=10)](https://github.com/ShadowKing6908/toplangstats)
   
 ---
-
+<!--
 ## Example of my Work
 [![Public Akali Bot](https://github-readme-stats.vercel.app/api/pin/?username=ShadowKing6908&repo=Akali_Public&theme=aura_dark&v=1)](https://github.com/ShadowKing6908/Akali_Public)
 
 ---
-
+-->
 > "A good game dev is a gamer at heart." 🎮
 
 ---
