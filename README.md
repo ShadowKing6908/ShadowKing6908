@@ -57,7 +57,7 @@
   ![Shadows's GitHub stats](https://toplangstats-shadowking6908s-projects.vercel.app/api?username=ShadowKing6908&show_icons=true&theme=aura_dark&cache_seconds=30)
 
 * **Top Languages**:  
-  ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&theme=aura_dark&cache_seconds=30&langs_count=20)
+  ![Top Langs](https://toplangstats-shadowking6908s-projects.vercel.app/api/top-langs/?username=ShadowKing6908&layout=compact&exclude_repo=toplangstats&hide=php,qmake,batchfile,shell&theme=aura_dark&cache_seconds=30&langs_count=20)
 
 * **Active time (via WakaTime)**:   
   [![Shadows's WakaTime stats](https://toplangstats-shadowking6908s-projects.vercel.app/api/wakatime?username=ShadowKing6908&theme=aura_dark&cache_seconds=10)](https://github.com/ShadowKing6908/toplangstats)
